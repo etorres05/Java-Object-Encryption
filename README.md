@@ -1,4 +1,4 @@
-# bug-free-spoon
+# Java Object Encryption
 Code for object encryption
 
 This code can be used along with an object of the users choice, in my case
